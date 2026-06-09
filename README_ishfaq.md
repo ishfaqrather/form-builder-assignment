@@ -1,10 +1,15 @@
-# 🎯 Form Builder Assignment - Drag & Drop Form Builder UI
+A fully functional drag-and-drop Form Builder that lets users visually construct HTML forms by dragging input field types from a palette into a canvas area. Built with Laravel Blade, Alpine.js, and Tailwind CSS.
 
-## 📋 Assignment Overview
+# 1. Clone the repository
+git clone https://github.com/ishfaqrather/form-builder-assignment.git
 
-Build a fully functional drag-and-drop Form Builder UI that allows users to visually construct HTML forms by dragging input field types from a palette into a canvas area. Each field must be configurable, reorderable, and removable with the ability to export the final form schema as JSON.
+# 2. Navigate to project directory
+cd form-builder-assignment
 
-Project: Laravel-based Form Builder  
-# 2. Start the server
+# 3. Install PHP dependencies
+composer install
+# 6. Run the development server
 php artisan serve
 
+# 7. Open in browser
+http://localhost:8000/form-builder

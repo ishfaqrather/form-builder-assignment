@@ -48,7 +48,6 @@
                                        id="submit-url" 
                                        x-model="submitUrl"
                                        placeholder="https://example.com/submit">
-                                <small class="text-muted">Where the form data will be submitted</small>
                             </div>
 
                             <div class="row">
